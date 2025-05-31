@@ -1,0 +1,12 @@
+psycopg2-binary 
+python-dotenv
+bcrypt
+fastapi 
+uvicorn
+sqlalchemy
+python-jose[cryptography]
+python-multipart
+google-generativeai
+pymupdf
+pytest
+fastapi[all]
